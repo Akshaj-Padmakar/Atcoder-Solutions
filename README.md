@@ -2,7 +2,7 @@
 
 * This contains all the solutions of problems I have solved on Atcoder, with solution hints appended in each solution's beginning.
 * ABCs Solved :
-  - :green_check_mark:[ABC-354](https://atcoder.jp/contests/abc354) 
+  - ✅[ABC-354](https://atcoder.jp/contests/abc354) 
   - [x][ABC-324](https://atcoder.jp/contests/abc324)
   - [ ][ABC-323](https://atcoder.jp/contests/abc323)
   - [ ][ABC-322](https://atcoder.jp/contests/abc322)
