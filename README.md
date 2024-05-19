@@ -1,6 +1,6 @@
 # Atcoder-Solutions
 
-* This contains all the solutions of problems I have solved on Atcoder, with solution hints appended in each solution's beginning.
+* This contains all the solutions of problems I have solved on Atcoder, with solution hints appended at the beginning of each code.
 * Atcoder DP contest :
   - ✅[A](https://atcoder.jp/contests/dp/tasks/dp_a) 
   - ✅[B](https://atcoder.jp/contests/dp/tasks/dp_b) 
