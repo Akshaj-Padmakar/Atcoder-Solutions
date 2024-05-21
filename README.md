@@ -36,7 +36,7 @@
   - ❌[ABC-312](https://atcoder.jp/contests/abc312)
   - ❌[ABC-311](https://atcoder.jp/contests/abc311)
   - ❌[ABC-309](https://atcoder.jp/contests/abc309)
-  - ❌[ABC-308](https://atcoder.jp/contests/abc308)
+  - ✅[ABC-308](https://atcoder.jp/contests/abc308)
   - ❌[ABC-298](https://atcoder.jp/contests/abc298)
   - ❌[ABC-297](https://atcoder.jp/contests/abc297)
   - ❌[ABC-296](https://atcoder.jp/contests/abc296)
