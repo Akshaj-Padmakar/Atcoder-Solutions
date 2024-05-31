@@ -24,6 +24,7 @@ Notes:
 
            -> dis[x] mod 2 == dis[y] mod 2
 */
+
 void solve() {
 	int n;
 	cin >> n;

@@ -14,6 +14,7 @@ Notes:
 *> A very easy problem, Just dont think about ASCII values.
 */
 
+
 void solve() {
 	string s;
 	int n, k;

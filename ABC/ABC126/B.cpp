@@ -14,6 +14,7 @@ using namespace std;
 Notes:
 *> Nothing to add here
 */
+
 void solve() {
 	string s;
 	cin >> s;

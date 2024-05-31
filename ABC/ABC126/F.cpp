@@ -17,6 +17,7 @@ Notes:
 *> Other side cases such as k >= pow(2,m) could be formed.
 *> x0 x1 ... xk-1 k xk-1 ... x0 k
 Such a sequence works using the above claim, but there is a triaval case of (n==1) that is not dealt here.
+
 */
 
 void solve() {

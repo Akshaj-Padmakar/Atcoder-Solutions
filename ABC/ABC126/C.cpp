@@ -14,6 +14,7 @@ Notes:
 *> Just a very easy iterative solution exist due to constraints, maybe try it without iteration ?
 */
 
+
 void solve() {
 	int n, k;
 	cin >> n >> k;
