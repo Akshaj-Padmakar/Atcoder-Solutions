@@ -2,13 +2,13 @@
 
 * This contains problems on on Re-Rooting DP.
 * CSES:
-- ✅[1, ~1500](https://cses.fi/problemset/task/1133/ )
+- ✅[1, ~1500](https://cses.fi/problemset/task/1133/)
 
 * Atcoder:
 - ✅[ABC348-E, 1347](https://atcoder.jp/contests/abc348/tasks/abc348_e)
-- ✅[ABC222-F, 1934]https://atcoder.jp/contests/abc222/tasks/abc222_f [1934]
-- ✅[ABC160-F, 2048]https://atcoder.jp/contests/abc160/tasks/abc160_f [2048]
-- ✅[ABC149-F, 2208]https://atcoder.jp/contests/abc149/tasks/abc149_f [2208]
+- ✅[ABC222-F, 1934]https://atcoder.jp/contests/abc222/tasks/abc222_f)
+- ✅[ABC160-F, 2048]https://atcoder.jp/contests/abc160/tasks/abc160_f)
+- ✅[ABC149-F, 2208]https://atcoder.jp/contests/abc149/tasks/abc149_f)
 
 * CF:
 - ✅[1, 1700](https://codeforces.com/contest/219/problem/D)
