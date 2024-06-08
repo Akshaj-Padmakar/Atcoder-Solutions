@@ -13,7 +13,7 @@ using namespace std;
 Notes:
 *> https://codeforces.com/contest/937/problem/D
 
-*> A very good problem based on the same idea.
+*> A very good problem based on the same idea !!
 
 *> We win if we reach a node with out[x]=0.
 *> But only if the path from s->x %2 = 1

@@ -13,7 +13,7 @@ using namespace std;
 const int INF = 1e9;
 /*
 Notes:
-*> NEW SHIT !
+*> NEW SHIT !!
 
 *> Not much intution on how to derive this, but how does this work?
 	- 3a -> 3b+1 -> 3c+2 -> 3d
