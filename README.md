@@ -8,6 +8,8 @@
   - ✅[ABC-129](https://atcoder.jp/contests/abc129)
   - ✅[ABC-130](https://atcoder.jp/contests/abc130)
   - ✅[ABC-131](https://atcoder.jp/contests/abc131)
+  - ✅[ABC-132](https://atcoder.jp/contests/abc132)
+  - ✅[ABC-160](https://atcoder.jp/contests/abc160)
 
   - ❌[ABC-292](https://atcoder.jp/contests/abc292)
   - ❌[ABC-293](https://atcoder.jp/contests/abc293)
@@ -21,9 +23,12 @@
   - ❌[ABC-309](https://atcoder.jp/contests/abc309)
   - ❌[ABC-311](https://atcoder.jp/contests/abc311)
   - ❌[ABC-312](https://atcoder.jp/contests/abc312)
+  - ✅[ABC-315](https://atcoder.jp/contests/abc315)
+  - ✅[ABC-318](https://atcoder.jp/contests/abc318)
   - ❌[ABC-322](https://atcoder.jp/contests/abc322)
   - ❌[ABC-323](https://atcoder.jp/contests/abc323)
   - ✅[ABC-324](https://atcoder.jp/contests/abc324)
+  - ✅[ABC-352](https://atcoder.jp/contests/abc352) 
   - ✅[ABC-353](https://atcoder.jp/contests/abc353) 
   - ✅[ABC-354](https://atcoder.jp/contests/abc354) 
   - ✅[ABC-356](https://atcoder.jp/contests/abc356) 
@@ -31,3 +36,5 @@
 
 * ARCs Solved :
   - ✅[ABC-099](https://atcoder.jp/contests/abc099)
+  - ✅[Keyance-2020](https://atcoder.jp/contests/keyence2020)
+  - ✅[AIsing-2020](https://atcoder.jp/contests/aising2020)
