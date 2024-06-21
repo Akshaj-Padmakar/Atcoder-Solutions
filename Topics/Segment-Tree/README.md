@@ -1,6 +1,6 @@
-# Re-Rooting-DP.
+# Segment-Tree.
 
-* This contains problems on on Segment Tree and Lazy Propagation..
+* This contains problems on Segment Tree and Lazy Propagation.
 * CF:
 	- ✅[1, 1700](https://codeforces.com/contest/339/problem/D)
 	- ✅[2, 1500](https://codeforces.com/contest/356/problem/A)
